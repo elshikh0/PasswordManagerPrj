@@ -1,0 +1,1 @@
+{'admin': b'$2b$12$4qZqpZd0hh771Dhb233LMuEN1.ajxwghLGd/67dRyx.Nywi9mWcTC'}
